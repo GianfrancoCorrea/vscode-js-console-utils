@@ -3,9 +3,7 @@
 ## 将 vscode-js-console-utils 改为彩色
 ![](https://user-gold-cdn.xitu.io/2019/5/26/16af354bd6907bcc?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
 
-## 掘金
-[https://juejin.im/post/5cea3a2051882550d4173f13](https://juejin.im/post/5cea3a2051882550d4173f13)
-
+## 
 
 Easily insert and remove console.log statements, by [@whtouche](https://twitter.com/whtouche)
 
@@ -13,7 +11,7 @@ Easily insert and remove console.log statements, by [@whtouche](https://twitter.
 
 ## Installing
 
-This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=whtouche.vscode-js-console-utils)
+This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=GianfrancoCorrea.vscode-js-styled-console)
 
 ## Usage
 

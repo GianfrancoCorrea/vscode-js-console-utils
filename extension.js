@@ -64,7 +64,7 @@ function activate(context) {
                 .then(() => {
                     const iconIndex = Math.floor(Math.random() * iconList.length);
                     const colorIndex = Math.floor(Math.random() * colorList.length);
-                    const style = `font-size:20px;background-color: ${colorList[colorIndex]};color:#fff;`
+                    const style = `font-size:10px;background-color: ${colorList[colorIndex]};color:#fff;`
                     const str = `${text}`.replace(/\'|\"/g, '');
                     const logToInsert = `console.log('%c ${iconList[iconIndex]} ${str}: ', '${style}', ${text});`;
                     insertText(logToInsert);

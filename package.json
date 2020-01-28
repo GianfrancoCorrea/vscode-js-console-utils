@@ -1,11 +1,11 @@
 {
-    "name": "vscode-js-console-utils",
-    "displayName": "javascript console utils",
+    "name": "vscode-js-styled-console",
+    "displayName": "javascript styled console",
     "description": "Help insert and remove console.(*) statements",
-    "version": "1.1.2",
-    "publisher": "vscode-convert-utils",
+    "version": "1.1.3",
+    "publisher": "GianfrancoCorrea",
     "icon": "logo.png",
-    "repository": "https://github.com/qq444716720/vscode-js-console-utils",
+    "repository": "https://github.com/GianfrancoCorrea/vscode-js-console-utils",
     "engines": {
         "vscode": "^1.5.0"
     },
