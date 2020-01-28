@@ -2,7 +2,7 @@
     "name": "vscode-js-styled-console",
     "displayName": "javascript styled console",
     "description": "Help insert and remove console.(*) statements",
-    "version": "1.1.3",
+    "version": "1.1.5",
     "publisher": "GianfrancoCorrea",
     "icon": "logo.png",
     "repository": "https://github.com/GianfrancoCorrea/vscode-js-console-utils",
